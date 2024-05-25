@@ -15,6 +15,8 @@ The attendance data was provided in an Excel file. It underwent ETL operations t
 -Collected attendance data from the provided Excel file.
 -Applied ETL operations to clean and transform the data for analysis.
 -Utilized Data Analysis Expressions (DAX) to create key metrics such as attendance percentages, sick leave percentages, and WFH/WFO percentages.
+**Dashboard:**
+![Screenshot 2024-05-25 205648](https://github.com/sandhyahm1804/Business-Insights-360/assets/153446889/72ee320e-76bc-49c3-963f-636694b1b72b)
 
 Employed Power BI Desktop to visualize the data and create interactive dashboards.
 Developed visualizations to highlight attendance trends, sick leave reasons, and the balance between WFH and WFO percentages.
